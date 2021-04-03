@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit-shar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning basics of Data Science i.e Mathematics(Linear Algebra, Regression, Probability and Statistics) Machine Learning in Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on beginner level projects
 - 📫 How to reach me Mohit5885@gmail.com
 
 <!---
